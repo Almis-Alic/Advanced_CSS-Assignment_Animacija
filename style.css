@@ -34,7 +34,7 @@ body {
     z-index: 1;
     
 }
-#circle:after {
+#circle::after {
     position: absolute;
     content: "";
     top: 30px;
